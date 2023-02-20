@@ -1,0 +1,34 @@
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.О_программе.resources
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.Массивы.resources
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.Множества.resources
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.Служебные_слова.resources
+D:\KOROLEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Lab1\Lab1\obj\Debug\Lab1.Типы_данных.resources
+C:\univer\tofic\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\univer\tofic\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\univer\tofic\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.Массивы.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.Множества.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.О_программе.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.Служебные_слова.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.Типы_данных.resources
+C:\univer\tofic\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\univer\tofic\Лабораторная 1\Lab1\bin\Debug\Lab1.exe.config
+C:\univer\tofic\Лабораторная 1\Lab1\obj\Debug\Lab1.exe
+C:\univer\tofic\Лабораторная 1\Lab1\obj\Debug\Lab1.pdb
+D:\univer4kurs\univer\tofic\Лабораторная 1 Методы и средства проектирования информационных систем и технологий\Lab1\bin\Debug\Lab1.exe.config
+D:\univer4kurs\univer\tofic\Лабораторная 1 Методы и средства проектирования информационных систем и технологий\Lab1\obj\Debug\Lab1.exe
+D:\univer4kurs\univer\tofic\Лабораторная 1 Методы и средства проектирования информационных систем и технологий\Lab1\obj\Debug\Lab1.pdb

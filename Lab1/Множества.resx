@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Итак, приступим. Как многие знают, "set" переводится с английского как "множество". Отсюда можно сделать логичный вывод, что set — это некая структура данных, которая реализует множество как математический объект. В С++11 есть две различные реализации множества. Первая пришла к нам из С++98. Это обычный set и основан он на реализации красно-чёрного дерева. Вторая реализация — unordered_set, которая была "узаконена" с введением стандарта С++11. Она основана на хеш-таблицах.
+
+Для сета определены следующие полезные для нас операции:
+
+1. Создание.
+
+Как и для множество других контейнеров stl, чтобы объявить set, необходимо прописать
+
+set&lt;type_here&gt; set_name_here;
+Можно также использовать конструктор, чтобы сразу инициализировать контейнер. Инициализацию можно провести другим контейнером или парой итераторов [first, last).
+
+2. Добавление.
+
+Выполняется посредством перегруженной функции insert. Синтаксис её вызова:
+
+set&lt;*тип данных элементов, хранящихся в a*&gt; a;
+a.insert(*аргументы здесь*);
+Вот её основные варианты:
+
+pair&lt;iterator,bool&gt; insert( const value_type&amp; value );
+Принимает value — значение, которое следует вставить в множество и возвращает пару — итератор, указывающий на вставленный элемент и bool'еву переменную, обозначающую "успешность" вставки. Т.е. 1 — вставка произошла, 0 — нет. Данная функция выполняется за логарифм от размера контейнера, то есть, за O(logn).
+
+iterator insert( iterator hint, const value_type&amp; value );
+Принимает значение value и итератор hint и пытается вставить элемент как можно ближе к итератору hint. Если вставка будет произведена сразу после или перед итератора hint, то функция отработает за O(1), иначе за O(logn).
+
+template&lt; class InputIt &gt;
+void insert( InputIt first, InputIt last );
+Добавляет в set все элементы, находящиеся на промежутке [first;last) за O((last - first)logn). InputIt должен соответствовать требованиям InputIterator, т.е. поддерживать следующие операции:
+
+Сравнение (a!=b);
+Разыменование (*a);
+Инкремент (a++ и ++a);
+Инкремент значения (*a++);
+При этом все указатели и итераторы на элементы set остаются в рабочем состоянии. Стоит также отметить, что set поддерживает лишь одно вхождение элемента с одинаковым значением, если же в множестве уже есть элемент с таким значением, он добавлен не будет. Однако, есть структура multiset, которая поддерживает множественные вхождения одного и того же элемента. Однако, операции над ней, за исключением небольших нюансов тождественны операциям над set и поэтому здесь она рассматриваться не будет.
+
+3. Поиск элемента.
+
+Существует несколько различных функций для поиска элементов в set. Вот они:
+
+size_type count( const Key&amp; key ) const;
+Считает количество вхождений элемента с ключём key в контейнер. Очевидно, что в силу свойств контейнера, эта функция возвращает либо 0, либо 1. Работает за O(logn).
+
+iterator find( const Key&amp; key );
+Находит элемент с ключём key. Если элемент найден, возвращает итератор на него, иначе на end() контейнера. Работает за O(logn).
+
+iterator lower_bound( const Key&amp; key );
+Возвращает итератор на первый элемент в множестве, который больше, либо равен искомому. O(logn).
+
+iterator upper_bound( const Key&amp; key );
+Возвращает итератор на первый элемент в множестве, который строго больше искомого. O(logn).
+
+Обратите внимание! Для правильного использования этих функций, надо вызывать их как функции-члены контейнера.
+
+set&lt;int&gt; t;
+lower_bound(t.begin(),t.end(),number); // Неправильно! Работает за О(n)
+t.lower_bound(number); // Правильно!
+4. Удаление.
+
+Существует также перегруженная функция erase(), которая позволяет удалять элементы. Вот её основные варианты:
+
+iterator erase( const_iterator position );
+Удаляет элемент, находящийся в позиции, указанной итератором. Амортизированная сложность — O(1).
+
+size_type erase( const key_type&amp; key );
+Удаляет все элементы с ключевым значением key. Понятно, что, если это просто set, а не multiset, кол-во таких элементов не превышает 1. Работает за O(logn + count(key)).
+
+void erase( iterator first, iterator last );
+Удаляет все элементы в диапазоне [first;last). Работает за O(logn + distance(first, last)).
+
+Теперь поговорим о map. Название происходит от mapping — ассоциативный массив. Операции на нём практически тождественны set, однако в элементах контейнера хранится не одно значение, а пары ключ-значение. Сортировка в данном случае будет проходить таким же образом, как при обычной сортировке пар — вначале приоритетом идёт сравнение первых элементов в паре, потом, в случае их равности, сравниваются вторые элементы. Также стоит отметить весьма удобную реализацию обращения по индексам. Например, вот такой код:
+
+map&lt;string,int&gt; test_map;
+test_map["ten"]=10;
+test_map["ten"]=8;
+Вначале создаст в контейнере test_map пару ("ten",10), а затем изменит второй элемент в ней на 8.
+
+unordered_set и unordered_map поддерживают большинство операций, поддерживаемых set и map, но, в среднем, выполняют их за О(1). Несмотря на это, их не всегда выгодно использовать, т.к. unordered означает неупорядоченный, т.е. элементы в них не поддерживаются в отсортированном порядке. В связи с этим, мы не сможем использовать такие контейнеры для, например, пирамидной сортировки, а также мы не сможем за О(1) получать доступ к наибольшему и наименьшему элементу, как в set и map. И, как следствие неупорядоченности, мы не сможем использовать на этих контейнерах операции lower_bound и upper_bound.
+
+Напоследок могу предложить несколько задач, которые можно достаточно легко (по сравнению с решением без STL) решить с использованием этих структур данных:
+
+1496 (Timus)
+1196 (Timus)
+1837 (Timus)
+Задача 13 (Codeforces, тренировка по мотивам UOI 2013)
+Что ж, надеюсь, что моя статья была полезной кому-нибудь. С нетерпением жду ваших отзывов о ней :)
+
+P.S. понимаю, что в статье материал раскрыт не полностью, хоть я и старался это сделать. Если после прочтения остались какие-то вопросы или замечания, можете их высказать.</value>
+  </data>
+</root>
